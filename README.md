@@ -8,8 +8,7 @@
 ---
 
 ### 🧠 Currently Building
-
-- 🌐 **Mitas ERP** – A modular ERP system using DBDAO, Ceramic, and Gun.js for decentralized micro-factory workflows  
+ 
 - 📊 **Market Intelligence Tool** – A FastAPI-based NLP agent that summarizes industry trends in coaxial/RF sectors  
 - 🎮 **Digital Twin Lab** – A 3D/AR environment in Unreal Engine that visualizes cable processes using MQTT, Blender, and IoT data streams
 
@@ -43,7 +42,7 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| **Mitas ERP** | Modular decentralized ERP for cable-related workflows | FastAPI, DBDAO, Gun.js |
+
 | **Market Intelligence Tool** | NLP agent to summarize RF industry trends and competitor data | FastAPI, Redis, Docker |
 | **Digital Twin Factory** | AR/VR simulation of coaxial cable processes using real sensor logic | Unreal, MQTT, Blender |
 
