@@ -9,7 +9,7 @@
 
 ### 🧠 Currently Building
  
-- 📊 **Market Intelligence Tool** – A FastAPI-based NLP agent that summarizes industry trends in coaxial/RF sectors  
+- 📊 **Market Intelligence Tool** – A FastAPI-based NLP agent that summarizes industry trends   
 - 🎮 **Digital Twin Lab** – A 3D/AR environment in Unreal Engine that visualizes cable processes using MQTT, Blender, and IoT data streams
 
 ---
