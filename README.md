@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Anteneh Kasse 👋</h1>
 
 <p align="center">
-  <b>🚀 Software Developer | 🎮 Digital Twin & AR/VR Engineer | 🧠 AI Developer</b><br>
+  <b>🚀 Software Developer | 🎮 Digital Twin  | 🧠 AI Developer</b><br>
   <i>Currently focused on AI and Machine learning </i>
 </p>
 
@@ -10,7 +10,7 @@
 ### 🧠 Currently Building
  
 - 📊 **Market Intelligence Tool** – A FastAPI-based NLP agent that summarizes industry trends   
-- 🎮 **Digital Twin Lab** – A 3D/AR environment in Unreal Engine that visualizes cable processes using MQTT, Blender, and IoT data streams
+- 🎮 **Digital Twin Lab** – A 3D/AR environment that visualizes new cable assembly manufacturing platform using Blender, MQTT and IoT data streams
 
 ---
 
