@@ -2,17 +2,10 @@
 
 <p align="center">
   <b>🚀 Software Developer | 🎮 Digital Twin  | 🧠 AI Developer</b><br>
-  <i>Currently focused on AI and Machine learning </i>
+ 
 </p>
 
----
 
-### 🧠 Currently Building
- 
-- 📊 **Market Intelligence Tool** – A FastAPI-based NLP agent that summarizes industry trends   
-- 🎮 **Digital Twin Lab** – A 3D/AR environment that visualizes new cable assembly manufacturing platform using Blender, MQTT and IoT data streams
-
----
 
 ### 🧰 Tech Stack
 
