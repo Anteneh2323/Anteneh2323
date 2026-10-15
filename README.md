@@ -27,7 +27,6 @@
 
 - 🛠️ Developing AI-powered tools to help automate quoting and lead management   
 - 🔄 Creating AR/VR digital twin demos with real-time data streams and UI/UX clarity  
-- 🧠 Pursuing a Master’s in AI & ML at WGU — focused on Neural Networks, NLP, and system design
 
 ---
 
